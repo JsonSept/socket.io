@@ -25,6 +25,7 @@ body {
     border: 8px solid #dddddd;
     border-radius: 24px;
     overflow: hidden;
+    width: 350px;
 }
 
 .name {
@@ -55,7 +56,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #54077d;
-    width: 400px;
+    width: 335px;
     height: 600px;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -104,7 +105,7 @@ margin-top: 4px;
 .message-form {
     display: flex;
     justify-content: space-between;
-    width: 400px;
+    width: 330px;
     /* box-shadow: 0 -3px 0 #0f0f0f; */
     box-shadow: -2px -2px 4px #171717;
 }
